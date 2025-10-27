@@ -6,7 +6,7 @@ import FAQAndFinalCTA from './components/FAQAndFinalCTA';
 
 function App() {
   return (
-    <div className="min-h-screen scroll-smooth font-[Inter] bg-stone-50 text-stone-900">
+    <div className="min-h-screen scroll-smooth font-[Inter] bg-black text-white">
       <Hero />
       <Showcase />
       <Packages />
